@@ -1,0 +1,7 @@
+*.out
+*.o
+*.a
+*~
+*.txt
+320sh
+sleepLoop.c
